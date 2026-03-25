@@ -22,4 +22,3 @@ pytest
 - Admin login
 - Navigate to User Management
 - Search user
-- Delete user
